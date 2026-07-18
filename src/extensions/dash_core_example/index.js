@@ -95,7 +95,7 @@ class DashCoreExample {
     getInfo () {
         return {
             id: 'coreExample',
-            name: 'Dash Core Example', // This string does not need to be translated as this extension is only used as an example.
+            name: 'NeoMod Core Example', // This string does not need to be translated as this extension is only used as an example.
             blocks: [
                 {
                     blockType: BlockType.XML,
